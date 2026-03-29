@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sameeksha 👋
 
-<!--
-**Sameeksha2601/Sameeksha2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Student at IIT Patna  
 
-Here are some ideas to get you started:
+## Skills
+- MATLAB | Python | Verilog  
+- Digital Communication  
+- Digital Signal Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- OFDM Communication System (in progress)  
+- Real-Time Health Monitoring System using Arduino
+  
