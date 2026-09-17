@@ -3,11 +3,16 @@
 🎓 ECE Student at IIT Patna  
 
 ## Skills
-- MATLAB | Python | Verilog  
-- Digital Communication  
-- Digital Signal Processing
+- C | MATLAB | Python | Verilog
+- 
+## Related Coursework
+- C Programming
+- DSP
+- Signals and Systems
+- Network Analysis
+- Digital Communication
 
-## Projects
-- OFDM Communication System (in progress)  
-- Real-Time Health Monitoring System using Arduino
+## Experience
+- Internship at JSW Steel Coated, Vasind
+- Manager in E-Cell IIT Patna
   
