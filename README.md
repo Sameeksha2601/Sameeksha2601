@@ -1,12 +1,13 @@
 # Hi, I'm Sameeksha 👋
 
-🎓 ECE Student at IIT Patna  
+🎓 B.Tech Student in Electronics and Communication Engineering at IIT Patna  
 
 ## Skills
 - C | MATLAB | Python | Verilog
 - 
 ## Related Coursework
 - C Programming
+- IoT and Embedded Systems
 - DSP
 - Signals and Systems
 - Network Analysis
